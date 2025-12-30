@@ -10,4 +10,4 @@
 - Git, GitHub
 
 ## 프로젝트
-- 추후 추가 예정
+https://github.com/jeongwonhyeong38-ux/data-analysis-project
